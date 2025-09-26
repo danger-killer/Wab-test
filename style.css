@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" href="style.css"> <!-- CSS যুক্ত করা -->
+</head>
+<body>
+    <header>
+        <h1>স্বাগতম আমার ওয়েবসাইটে!</h1>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>আমার সম্পর্কে</h2>
+        <p>এখানে আমার বিষয়ে লেখা থাকবে।</p>
+    </section>
+
+    <section id="contact">
+        <h2>যোগাযোগ</h2>
+        <p>ইমেইল: example@mail.com</p>
+    </section>
+
+    <footer>
+        <p>© 2025 My Website</p>
+    </footer>
+
+    <script src="script.js"></script> <!-- JavaScript যুক্ত করা -->
+</body>
+</html>
